@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/outputlist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loggerbg2" >
+    
+    
+    
+
+</ListView>
+<!-- From: file:/Users/computer/StudioProjects/Logger/app/src/main/res/layout/output.xml -->
